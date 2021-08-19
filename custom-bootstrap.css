@@ -1,0 +1,21 @@
+.col-lg-12 {
+  position: relative;
+  min-height: 1px;
+	margin: 10px 0 10px 0;
+}
+
+.panel-heading {
+	margin: 10px 0 10px 0;
+}
+
+label {
+	font-weight: bold;
+}
+
+.form-group {
+	margin: 10px 0 10px 0;
+}
+
+.container {
+	height: 100%;
+}
